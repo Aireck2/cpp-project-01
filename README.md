@@ -78,15 +78,6 @@ Prioridad 3 (Medio):   3
 Total de incidentes:   6
 ```
 
-## Funcionalidades
-
-- **Registro de incidentes** con validación de campos obligatorios y prioridad (1-3)
-- **Asignación automática** de equipo SOC responsable según la prioridad del incidente
-- **Estados iniciales** diferenciados: prioridad crítica inicia como "En Curso/Asignado", las demás como "Pendiente"
-- **Identificación única** con formato `INC-P{prioridad}-{contador}` (ej. `INC-P1-001`)
-- **Listado completo** de todos los incidentes registrados
-- **Resumen estadístico** con conteo por nivel de prioridad
-
 ## Estructura del proyecto
 
 ```
