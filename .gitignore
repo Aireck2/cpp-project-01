@@ -8,7 +8,6 @@ cmake_install.cmake
 
 # project artifacts
 main.cpp.bak
-pseudocode.md
 project.mmd
 
 # clangd cache
